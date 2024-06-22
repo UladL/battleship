@@ -1,4 +1,4 @@
-Hello!
-This a simple game made on JS.
-To start playing start the game in HTML and open up a new page.
-Thats it!
+
+
+https://github.com/UladL/battleship/assets/151393410/a3afc4be-7e36-41c7-8472-61e165da7f34
+
